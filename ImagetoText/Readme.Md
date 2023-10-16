@@ -10,7 +10,7 @@ Automasi Proses: Anda dapat mengotomatiskan proses pengambilan data dari gambar 
 Teknologi yang Digunakan:
 Proyek "ImagetoText" biasanya memanfaatkan perpustakaan Python yang disebut "Tesseract OCR" untuk melakukan pengenalan karakter dalam gambar. Tesseract adalah salah satu mesin OCR sumber terbuka yang cukup kuat dan dapat digunakan dengan Python menggunakan pustaka seperti "pytesseract."
 
-## Cara Kerja Proyek:
+## Cara Kerja
 
 Pengguna memberikan gambar yang berisi teks ke proyek.
 Proyek menggunakan Tesseract OCR untuk menganalisis gambar dan mengenali teks yang ada di dalamnya.
